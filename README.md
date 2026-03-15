@@ -6,12 +6,12 @@ I specialize in the "Growth Funnel"—using data to find where users drop off an
 
 ---
 
-## 🏆 Portfolio Milestones (Independent Projects)  
+## 🏆 Portfolio Milestones  
 
-**📈 Growth Analytics:** Analyzed 10M+ sales records to identify **$11M in potential growth opportunities** through deep-dive segmentation.
-**⚙️ Process Automation:** Engineered Python scripts to automate manual reporting workflows, reducing processing time by **15+ hours/month**.
-**🧹 Large-Scale Data Quality:** Performed validation on a **500GB dataset**, implementing cleaning protocols that boosted data accuracy by **22%**.
-**📊 Visual Storytelling:** Built interactive Power BI dashboards that translate complex SQL queries into clear executive insights.
+**📈 Growth Analytics:** Analyzed 10M+ sales records to identify **$11M in potential growth opportunities** through deep-dive segmentation.  
+**⚙️ Process Automation:** Engineered Python scripts to automate manual reporting workflows, reducing processing time by **15+ hours/month**.  
+**🧹 Large-Scale Data Quality:** Performed validation on a **500GB dataset**, implementing cleaning protocols that boosted data accuracy by **22%**.  
+**📊 Visual Storytelling:** Built interactive Power BI dashboards that translate complex SQL queries into clear executive insights.  
 
 ---
 

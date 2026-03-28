@@ -28,10 +28,7 @@ I specialize in the "Growth Funnel"—using data to find where users drop off an
 ---
 
 ## 📈 GitHub Insights
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh2522&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2522&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh2522&theme=radical)
 ---
 
 ## 📫 Let's Connect!
